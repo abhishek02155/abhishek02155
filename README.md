@@ -238,9 +238,9 @@ class ABHISHEKMISHRA:
 
 | Platform | Link |
 |:--------:|:-----|
-| 💼 LinkedIn | [linkedin.com/in/mitansh-MISHRA]([https://www.linkedin.com/in/mitansh-MISHRA](https://www.linkedin.com/in/abhishek-mishra-187238289/)) |
-| 📸 Instagram | [@mishraaa_021](https://instagram.com/mishraaa_021) |
-| ✉️  | [abhishektam0@gmail.com](mailto:abhishektam9@gmail) |
+| 💼 LinkedIn | [linkedin.com/in/abhishek-mishra-187238289](https://www.linkedin.com/in/abhishek-mishra-187238289/) |
+| 📸 Instagram | [@mishraaa_021](https://www.instagram.com/mishraaa_021) |
+| ✉️ Gmail | [abhishektam9@gmail.com](mailto:abhishektam9@gmail.com) |
 | 🐙 GitHub | [abhishek02155](https://github.com/abhishek02155) |
 
 </div>
