@@ -33,8 +33,8 @@ class ABHISHEKMISHRA:
 
     name        = "ABHISHEK MISHRA"
     role        = "Machine Learning Engineer | Data Scientist"
-    location    = "India 🇮🇳"
-    languages   = ["Python", "SQL"]
+    location    = "India"
+    languages   = ["Python", "SQL","Java(Basic)"]
 
     expertise   = [
         "End-to-End ML Pipelines",
